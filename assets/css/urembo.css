@@ -1,0 +1,32 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+    overflow: hidden;
+
+
+}
+li{
+    float: left;
+}
+li a{
+    padding: 30px;
+    color: #e30a62;
+    display: block;
+    text-decoration: none;
+    font-family: Chilanka;
+}
+h2{
+    color: blue;
+    text-align: center;
+}
+th,td{
+    border:2px solid #d20adf;
+    padding: 20px;
+    font-family: cursive;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}

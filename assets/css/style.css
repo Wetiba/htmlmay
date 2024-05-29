@@ -1,0 +1,22 @@
+.fruits{
+    border: 2px solid red;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+    color: #d20adf;
+}
+.cars{
+    border: 2px solid #50d60d;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+    color: #1befd6;
+}
+.Fruits{
+    border: 2px solid #092ea8;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+    color: #b82e04;
+
+}
